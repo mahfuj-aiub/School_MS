@@ -1,0 +1,65 @@
+G:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu_UI_v1.52.dll
+G:\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+G:\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.signup.resources
+G:\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+G:\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Student_initiant_page.resources
+G:\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Routine.resources
+C:\Users\GILGAMESH\Desktop\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\GILGAMESH\Desktop\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\GILGAMESH\Desktop\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\GILGAMESH\Desktop\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\GILGAMESH\Desktop\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\GILGAMESH\Desktop\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.signup.resources
+C:\Users\GILGAMESH\Desktop\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Student_initiant_page.resources
+C:\Users\GILGAMESH\Desktop\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\GILGAMESH\Desktop\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\GILGAMESH\Desktop\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\GILGAMESH\Desktop\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\GILGAMESH\Desktop\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\GILGAMESH\Desktop\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.page_routine.resources
+C:\Users\GILGAMESH\Desktop\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.page_result.resources
+C:\Users\GILGAMESH\Desktop\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin_initial_page.resources
+C:\Users\GILGAMESH\Desktop\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\GILGAMESH\Desktop\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Student_Profile.resources
+C:\Users\GILGAMESH\Desktop\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.page_subjects.resources
+C:\Users\GILGAMESH\Desktop\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.page_payment.resources
+C:\Users\GILGAMESH\Desktop\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.student_settings.resources
+C:\Users\GILGAMESH\Desktop\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.page_StudentSignUp.resources
+C:\Users\GILGAMESH\Desktop\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.page_TeacherSignUp.resources
+C:\Users\GILGAMESH\Desktop\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.office.resources
+C:\Users\GILGAMESH\Desktop\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.page_addStudent.resources
+C:\Users\GILGAMESH\Desktop\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.page_manageStudent.resources
+C:\Users\GILGAMESH\Desktop\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.page_manageTeacher.resources
+C:\Users\GILGAMESH\Desktop\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Office_Profile.resources
+C:\Users\GILGAMESH\Desktop\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.office_Settings.resources
+C:\Users\Hp\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Hp\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Hp\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\Hp\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.office.resources
+C:\Users\Hp\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Office_Profile.resources
+C:\Users\Hp\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.office_Settings.resources
+C:\Users\Hp\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.page_addStudent.resources
+C:\Users\Hp\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.page_manageStudent.resources
+C:\Users\Hp\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.page_manageTeacher.resources
+C:\Users\Hp\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.page_result.resources
+C:\Users\Hp\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.page_routine.resources
+C:\Users\Hp\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.page_subjects.resources
+C:\Users\Hp\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Hp\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Student_initiant_page.resources
+C:\Users\Hp\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Student_Profile.resources
+C:\Users\Hp\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.student_settings.resources
+C:\Users\Hp\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Hp\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Hp\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Hp\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Hp\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Hp\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb

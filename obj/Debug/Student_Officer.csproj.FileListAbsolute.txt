@@ -1,0 +1,178 @@
+F:\Semester 7\C_Sharp\Demo Project\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Student_Officer.dll.config
+F:\Semester 7\C_Sharp\Demo Project\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Student_Officer.dll
+F:\Semester 7\C_Sharp\Demo Project\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Student_Officer.pdb
+F:\Semester 7\C_Sharp\Demo Project\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Login.resources
+F:\Semester 7\C_Sharp\Demo Project\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.office.resources
+F:\Semester 7\C_Sharp\Demo Project\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Office_Profile.resources
+F:\Semester 7\C_Sharp\Demo Project\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.office_Settings.resources
+F:\Semester 7\C_Sharp\Demo Project\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_addStudent.resources
+F:\Semester 7\C_Sharp\Demo Project\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_manageStudent.resources
+F:\Semester 7\C_Sharp\Demo Project\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_manageTeacher.resources
+F:\Semester 7\C_Sharp\Demo Project\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_result.resources
+F:\Semester 7\C_Sharp\Demo Project\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_routine.resources
+F:\Semester 7\C_Sharp\Demo Project\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_subjects.resources
+F:\Semester 7\C_Sharp\Demo Project\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Properties.Resources.resources
+F:\Semester 7\C_Sharp\Demo Project\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Student_initiant_page.resources
+F:\Semester 7\C_Sharp\Demo Project\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Student_Profile.resources
+F:\Semester 7\C_Sharp\Demo Project\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.student_settings.resources
+F:\Semester 7\C_Sharp\Demo Project\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.csproj.GenerateResource.cache
+F:\Semester 7\C_Sharp\Demo Project\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.csproj.CopyComplete
+F:\Semester 7\C_Sharp\Demo Project\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.dll
+F:\Semester 7\C_Sharp\Demo Project\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.pdb
+F:\Semester 7\C_Sharp\Demo Project\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.csprojAssemblyReference.cache
+C:\Users\GILGAMESH\Desktop\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Student_Officer.dll.config
+C:\Users\GILGAMESH\Desktop\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Student_Officer.dll
+C:\Users\GILGAMESH\Desktop\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Student_Officer.pdb
+C:\Users\GILGAMESH\Desktop\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.csprojAssemblyReference.cache
+C:\Users\GILGAMESH\Desktop\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Login.resources
+C:\Users\GILGAMESH\Desktop\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.office.resources
+C:\Users\GILGAMESH\Desktop\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Office_Profile.resources
+C:\Users\GILGAMESH\Desktop\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.office_Settings.resources
+C:\Users\GILGAMESH\Desktop\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_addStudent.resources
+C:\Users\GILGAMESH\Desktop\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_manageStudent.resources
+C:\Users\GILGAMESH\Desktop\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_manageTeacher.resources
+C:\Users\GILGAMESH\Desktop\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_result.resources
+C:\Users\GILGAMESH\Desktop\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_routine.resources
+C:\Users\GILGAMESH\Desktop\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_subjects.resources
+C:\Users\GILGAMESH\Desktop\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Properties.Resources.resources
+C:\Users\GILGAMESH\Desktop\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Student_initiant_page.resources
+C:\Users\GILGAMESH\Desktop\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Student_Profile.resources
+C:\Users\GILGAMESH\Desktop\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.student_settings.resources
+C:\Users\GILGAMESH\Desktop\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.csproj.GenerateResource.cache
+C:\Users\GILGAMESH\Desktop\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.csproj.CoreCompileInputs.cache
+C:\Users\GILGAMESH\Desktop\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.csproj.CopyComplete
+C:\Users\GILGAMESH\Desktop\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.dll
+C:\Users\GILGAMESH\Desktop\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.pdb
+C:\Users\GILGAMESH\Desktop\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Student_Officer.dll.config
+C:\Users\GILGAMESH\Desktop\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Student_Officer.dll
+C:\Users\GILGAMESH\Desktop\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Student_Officer.pdb
+C:\Users\GILGAMESH\Desktop\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.csprojAssemblyReference.cache
+C:\Users\GILGAMESH\Desktop\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Login.resources
+C:\Users\GILGAMESH\Desktop\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.office.resources
+C:\Users\GILGAMESH\Desktop\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Office_Profile.resources
+C:\Users\GILGAMESH\Desktop\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.office_Settings.resources
+C:\Users\GILGAMESH\Desktop\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_addStudent.resources
+C:\Users\GILGAMESH\Desktop\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_manageStudent.resources
+C:\Users\GILGAMESH\Desktop\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_manageTeacher.resources
+C:\Users\GILGAMESH\Desktop\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_result.resources
+C:\Users\GILGAMESH\Desktop\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_routine.resources
+C:\Users\GILGAMESH\Desktop\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_subjects.resources
+C:\Users\GILGAMESH\Desktop\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Properties.Resources.resources
+C:\Users\GILGAMESH\Desktop\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Student_initiant_page.resources
+C:\Users\GILGAMESH\Desktop\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Student_Profile.resources
+C:\Users\GILGAMESH\Desktop\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.student_settings.resources
+C:\Users\GILGAMESH\Desktop\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.csproj.GenerateResource.cache
+C:\Users\GILGAMESH\Desktop\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.csproj.CoreCompileInputs.cache
+C:\Users\GILGAMESH\Desktop\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.csproj.CopyComplete
+C:\Users\GILGAMESH\Desktop\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.dll
+C:\Users\GILGAMESH\Desktop\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.pdb
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Student_Officer.dll.config
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Student_Officer.dll
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Student_Officer.pdb
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.csprojAssemblyReference.cache
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Login.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.office.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Office_Profile.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.office_Settings.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_addStudent.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_manageStudent.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_manageTeacher.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_result.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_routine.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_subjects.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Properties.Resources.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Student_initiant_page.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Student_Profile.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.student_settings.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.csproj.GenerateResource.cache
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.csproj.CopyComplete
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.dll
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.pdb
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Student_Officer.dll.config
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Student_Officer.dll
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Student_Officer.pdb
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.csprojAssemblyReference.cache
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Login.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.office.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Office_Profile.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.office_Settings.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_addStudent.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_manageStudent.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_manageTeacher.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_result.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_routine.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_subjects.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Properties.Resources.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Student_initiant_page.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Student_Profile.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.student_settings.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.csproj.GenerateResource.cache
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.csproj.CopyComplete
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.dll
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.pdb
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Student_Officer.dll.config
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Student_Officer.dll
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Student_Officer.pdb
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Login.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.office.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Office_Profile.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.office_Settings.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_addStudent.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_manageStudent.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_manageTeacher.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_result.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_routine.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_subjects.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Properties.Resources.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Student_initiant_page.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Student_Profile.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.student_settings.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.csproj.GenerateResource.cache
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.csproj.CoreCompileInputs.cache
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.csproj.CopyComplete
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.dll
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.pdb
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Student_Officer.dll.config
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Student_Officer.dll
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Student_Officer.pdb
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.csprojAssemblyReference.cache
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Login.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.office.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Office_Profile.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.office_Settings.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_addStudent.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_manageStudent.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_manageTeacher.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_result.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_routine.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_subjects.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Properties.Resources.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Student_initiant_page.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Student_Profile.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.student_settings.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.csproj.GenerateResource.cache
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.csproj.CopyComplete
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.dll
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.pdb
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Student_Officer.dll.config
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Student_Officer.dll
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Student_Officer.pdb
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.csprojAssemblyReference.cache
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Login.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.office.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Office_Profile.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.office_Settings.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_addStudent.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_manageStudent.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_manageTeacher.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_result.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_routine.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.page_subjects.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Properties.Resources.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Student_initiant_page.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.Student_Profile.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.student_settings.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.csproj.GenerateResource.cache
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.csproj.CopyComplete
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.dll
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\WindowsFormsApp1 (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Student_Officer.pdb
