@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2780BDDE-2951-4652-933A-D60FCF81311B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>School_MS</RootNamespace>
+    <AssemblyName>School_MS</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>C:\Users\Hp\Downloads\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add_Students_To_Class.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Add_Students_To_Class.Designer.cs">
+      <DependentUpon>Add_Students_To_Class.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Subject.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Add_Subject.Designer.cs">
+      <DependentUpon>Add_Subject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Subject_To_Students.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Add_Subject_To_Students.Designer.cs">
+      <DependentUpon>Add_Subject_To_Students.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Home_Page.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin_Home_Page.Designer.cs">
+      <DependentUpon>Admin_Home_Page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assigned_Subject_To_Teacher.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Assigned_Subject_To_Teacher.Designer.cs">
+      <DependentUpon>Assigned_Subject_To_Teacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Check_Students_Class.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Check_Students_Class.Designer.cs">
+      <DependentUpon>Check_Students_Class.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Create_Class.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Create_Class.Designer.cs">
+      <DependentUpon>Create_Class.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Create_Officer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Create_Officer.Designer.cs">
+      <DependentUpon>Create_Officer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Create_Student_Account.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Create_Student_Account.Designer.cs">
+      <DependentUpon>Create_Student_Account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Create_Teacher_Account.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Create_Teacher_Account.Designer.cs">
+      <DependentUpon>Create_Teacher_Account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Data_Access.cs" />
+    <Compile Include="Delete_Subject.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Delete_Subject.Designer.cs">
+      <DependentUpon>Delete_Subject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Generate_Random_Value.cs" />
+    <Compile Include="Login_Page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_Page.Designer.cs">
+      <DependentUpon>Login_Page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Search_Officer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Search_Officer.Designer.cs">
+      <DependentUpon>Search_Officer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Search_Student_Admin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Search_Student_Admin.Designer.cs">
+      <DependentUpon>Search_Student_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Search_Teacher_Admin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Search_Teacher_Admin.Designer.cs">
+      <DependentUpon>Search_Teacher_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Slide_Show_Log_In_Page.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Slide_Show_Log_In_Page.Designer.cs">
+      <DependentUpon>Slide_Show_Log_In_Page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Validation_Check.cs" />
+    <EmbeddedResource Include="Add_Students_To_Class.resx">
+      <DependentUpon>Add_Students_To_Class.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Subject.resx">
+      <DependentUpon>Add_Subject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Subject_To_Students.resx">
+      <DependentUpon>Add_Subject_To_Students.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Home_Page.resx">
+      <DependentUpon>Admin_Home_Page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assigned_Subject_To_Teacher.resx">
+      <DependentUpon>Assigned_Subject_To_Teacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Check_Students_Class.resx">
+      <DependentUpon>Check_Students_Class.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Create_Class.resx">
+      <DependentUpon>Create_Class.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Create_Officer.resx">
+      <DependentUpon>Create_Officer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Create_Student_Account.resx">
+      <DependentUpon>Create_Student_Account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Create_Teacher_Account.resx">
+      <DependentUpon>Create_Teacher_Account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Delete_Subject.resx">
+      <DependentUpon>Delete_Subject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login_Page.resx">
+      <DependentUpon>Login_Page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Search_Officer.resx">
+      <DependentUpon>Search_Officer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search_Student_Admin.resx">
+      <DependentUpon>Search_Student_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search_Teacher_Admin.resx">
+      <DependentUpon>Search_Teacher_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Slide_Show_Log_In_Page.resx">
+      <DependentUpon>Slide_Show_Log_In_Page.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Quotefancy-498-3840x2160.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Quotefancy-10317-3840x2160.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Quotefancy-32393-3840x2160.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Quotefancy-61648-3840x2160.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\external_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\school_Pic.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\teacher_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\manager.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\25496629.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\class_room.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\WindowsFormsApp1 %281%29 %281%29\WindowsFormsApp1\WindowsFormsApp1\TeacherPart.csproj">
+      <Project>{bc24b0f4-8e76-4e9d-b2df-ac593866b8c5}</Project>
+      <Name>TeacherPart</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WindowsFormsApp1 %283%29\WindowsFormsApp1\WindowsFormsApp1\Student_Officer.csproj">
+      <Project>{8a98cdf7-66da-4d55-b9cd-aff09cd6fa27}</Project>
+      <Name>Student_Officer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\online-education.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

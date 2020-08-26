@@ -1,0 +1,283 @@
+F:\Semester 7\C_Sharp\School_MS\bin\Debug\School_MS.exe.config
+F:\Semester 7\C_Sharp\School_MS\bin\Debug\School_MS.exe
+F:\Semester 7\C_Sharp\School_MS\bin\Debug\School_MS.pdb
+F:\Semester 7\C_Sharp\School_MS\obj\Debug\School_MS.csprojAssemblyReference.cache
+F:\Semester 7\C_Sharp\School_MS\obj\Debug\School_MS.Properties.Resources.resources
+F:\Semester 7\C_Sharp\School_MS\obj\Debug\School_MS.Slide_Show_Log_In_Page.resources
+F:\Semester 7\C_Sharp\School_MS\obj\Debug\School_MS.csproj.GenerateResource.cache
+F:\Semester 7\C_Sharp\School_MS\obj\Debug\School_MS.exe
+F:\Semester 7\C_Sharp\School_MS\obj\Debug\School_MS.pdb
+F:\Semester 7\C_Sharp\School_MS\bin\Debug\Bunifu_UI_v1.52.dll
+F:\Semester 7\C_Sharp\School_MS\obj\Debug\School_MS.csproj.CopyComplete
+F:\Semester 7\C_Sharp\School_MS\obj\Debug\School_MS.Login_Page.resources
+F:\Semester 7\C_Sharp\School_MS\obj\Debug\School_MS.Admin.resources
+F:\Semester 7\C_Sharp\School_MS\obj\Debug\School_MS.Admin_Home_Page.resources
+F:\Semester 7\C_Sharp\School_MS\obj\Debug\School_MS.New_logIn.resources
+F:\Semester 7\C_Sharp\School_MS\obj\Debug\School_MS.Create_Student_Account.resources
+F:\Semester 7\C_Sharp\School_MS\obj\Debug\School_MS.Search_Student_Admin.resources
+F:\Semester 7\C_Sharp\School_MS\obj\Debug\School_MS.Search_Teacher_Admin.resources
+F:\Semester 7\C_Sharp\School_MS\obj\Debug\School_MS.Create_Teacher_Account.resources
+F:\Semester 7\C_Sharp\School_MS\obj\Debug\School_MS.Create_Officer.resources
+F:\Semester 7\C_Sharp\School_MS\obj\Debug\School_MS.Add_Subject_Drop_Down.resources
+F:\Semester 7\C_Sharp\School_MS\obj\Debug\School_MS.Delete_Subject.resources
+F:\Semester 7\C_Sharp\School_MS\obj\Debug\School_MS.Create_Class.resources
+F:\Semester 7\C_Sharp\School_MS\obj\Debug\School_MS.Search_Officer.resources
+F:\Semester 7\C_Sharp\School_MS\obj\Debug\School_MS.Assigned_Subject_To_Teacher.resources
+F:\Semester 7\C_Sharp\School_MS\obj\Debug\School_MS.Add_Students_To_Class.resources
+F:\Semester 7\C_Sharp\School_MS\obj\Debug\School_MS.Check_Students_Class.resources
+F:\Semester 7\C_Sharp\School_MS\obj\Debug\School_MS.Add_Subject_To_Students.resources
+F:\Semester 7\C_Sharp\Demo Project\School_MS\bin\Debug\School_MS.exe.config
+F:\Semester 7\C_Sharp\Demo Project\School_MS\bin\Debug\School_MS.exe
+F:\Semester 7\C_Sharp\Demo Project\School_MS\bin\Debug\School_MS.pdb
+F:\Semester 7\C_Sharp\Demo Project\School_MS\bin\Debug\Bunifu_UI_v1.52.dll
+F:\Semester 7\C_Sharp\Demo Project\School_MS\bin\Debug\Student_Officer.dll
+F:\Semester 7\C_Sharp\Demo Project\School_MS\bin\Debug\Student_Officer.pdb
+F:\Semester 7\C_Sharp\Demo Project\School_MS\bin\Debug\Student_Officer.dll.config
+F:\Semester 7\C_Sharp\Demo Project\School_MS\obj\Debug\School_MS.csprojAssemblyReference.cache
+F:\Semester 7\C_Sharp\Demo Project\School_MS\obj\Debug\School_MS.Add_Students_To_Class.resources
+F:\Semester 7\C_Sharp\Demo Project\School_MS\obj\Debug\School_MS.Add_Subject_Drop_Down.resources
+F:\Semester 7\C_Sharp\Demo Project\School_MS\obj\Debug\School_MS.Add_Subject_To_Students.resources
+F:\Semester 7\C_Sharp\Demo Project\School_MS\obj\Debug\School_MS.Admin.resources
+F:\Semester 7\C_Sharp\Demo Project\School_MS\obj\Debug\School_MS.Admin_Home_Page.resources
+F:\Semester 7\C_Sharp\Demo Project\School_MS\obj\Debug\School_MS.Assigned_Subject_To_Teacher.resources
+F:\Semester 7\C_Sharp\Demo Project\School_MS\obj\Debug\School_MS.Check_Students_Class.resources
+F:\Semester 7\C_Sharp\Demo Project\School_MS\obj\Debug\School_MS.Create_Class.resources
+F:\Semester 7\C_Sharp\Demo Project\School_MS\obj\Debug\School_MS.Create_Officer.resources
+F:\Semester 7\C_Sharp\Demo Project\School_MS\obj\Debug\School_MS.Create_Student_Account.resources
+F:\Semester 7\C_Sharp\Demo Project\School_MS\obj\Debug\School_MS.Create_Teacher_Account.resources
+F:\Semester 7\C_Sharp\Demo Project\School_MS\obj\Debug\School_MS.Delete_Subject.resources
+F:\Semester 7\C_Sharp\Demo Project\School_MS\obj\Debug\School_MS.Login_Page.resources
+F:\Semester 7\C_Sharp\Demo Project\School_MS\obj\Debug\School_MS.Properties.Resources.resources
+F:\Semester 7\C_Sharp\Demo Project\School_MS\obj\Debug\School_MS.Search_Officer.resources
+F:\Semester 7\C_Sharp\Demo Project\School_MS\obj\Debug\School_MS.Search_Student_Admin.resources
+F:\Semester 7\C_Sharp\Demo Project\School_MS\obj\Debug\School_MS.Search_Teacher_Admin.resources
+F:\Semester 7\C_Sharp\Demo Project\School_MS\obj\Debug\School_MS.Slide_Show_Log_In_Page.resources
+F:\Semester 7\C_Sharp\Demo Project\School_MS\obj\Debug\School_MS.csproj.GenerateResource.cache
+F:\Semester 7\C_Sharp\Demo Project\School_MS\obj\Debug\School_MS.csproj.CopyComplete
+F:\Semester 7\C_Sharp\Demo Project\School_MS\obj\Debug\School_MS.exe
+F:\Semester 7\C_Sharp\Demo Project\School_MS\obj\Debug\School_MS.pdb
+C:\Users\GILGAMESH\Desktop\School_MS\bin\Debug\School_MS.exe.config
+C:\Users\GILGAMESH\Desktop\School_MS\bin\Debug\School_MS.exe
+C:\Users\GILGAMESH\Desktop\School_MS\bin\Debug\School_MS.pdb
+C:\Users\GILGAMESH\Desktop\School_MS\bin\Debug\Student_Officer.dll
+C:\Users\GILGAMESH\Desktop\School_MS\bin\Debug\Student_Officer.pdb
+C:\Users\GILGAMESH\Desktop\School_MS\bin\Debug\Student_Officer.dll.config
+C:\Users\GILGAMESH\Desktop\School_MS\obj\Debug\School_MS.csprojAssemblyReference.cache
+C:\Users\GILGAMESH\Desktop\School_MS\obj\Debug\School_MS.Add_Students_To_Class.resources
+C:\Users\GILGAMESH\Desktop\School_MS\obj\Debug\School_MS.Add_Subject_Drop_Down.resources
+C:\Users\GILGAMESH\Desktop\School_MS\obj\Debug\School_MS.Add_Subject_To_Students.resources
+C:\Users\GILGAMESH\Desktop\School_MS\obj\Debug\School_MS.Admin.resources
+C:\Users\GILGAMESH\Desktop\School_MS\obj\Debug\School_MS.Admin_Home_Page.resources
+C:\Users\GILGAMESH\Desktop\School_MS\obj\Debug\School_MS.Assigned_Subject_To_Teacher.resources
+C:\Users\GILGAMESH\Desktop\School_MS\obj\Debug\School_MS.Check_Students_Class.resources
+C:\Users\GILGAMESH\Desktop\School_MS\obj\Debug\School_MS.Create_Class.resources
+C:\Users\GILGAMESH\Desktop\School_MS\obj\Debug\School_MS.Create_Officer.resources
+C:\Users\GILGAMESH\Desktop\School_MS\obj\Debug\School_MS.Create_Student_Account.resources
+C:\Users\GILGAMESH\Desktop\School_MS\obj\Debug\School_MS.Create_Teacher_Account.resources
+C:\Users\GILGAMESH\Desktop\School_MS\obj\Debug\School_MS.Delete_Subject.resources
+C:\Users\GILGAMESH\Desktop\School_MS\obj\Debug\School_MS.Login_Page.resources
+C:\Users\GILGAMESH\Desktop\School_MS\obj\Debug\School_MS.Properties.Resources.resources
+C:\Users\GILGAMESH\Desktop\School_MS\obj\Debug\School_MS.Search_Officer.resources
+C:\Users\GILGAMESH\Desktop\School_MS\obj\Debug\School_MS.Search_Student_Admin.resources
+C:\Users\GILGAMESH\Desktop\School_MS\obj\Debug\School_MS.Search_Teacher_Admin.resources
+C:\Users\GILGAMESH\Desktop\School_MS\obj\Debug\School_MS.Slide_Show_Log_In_Page.resources
+C:\Users\GILGAMESH\Desktop\School_MS\obj\Debug\School_MS.csproj.GenerateResource.cache
+C:\Users\GILGAMESH\Desktop\School_MS\obj\Debug\School_MS.csproj.CoreCompileInputs.cache
+C:\Users\GILGAMESH\Desktop\School_MS\obj\Debug\School_MS.csproj.CopyComplete
+C:\Users\GILGAMESH\Desktop\School_MS\obj\Debug\School_MS.exe
+C:\Users\GILGAMESH\Desktop\School_MS\obj\Debug\School_MS.pdb
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\obj\Debug\School_MS.csprojAssemblyReference.cache
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\obj\Debug\School_MS.Add_Students_To_Class.resources
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\obj\Debug\School_MS.Add_Subject_Drop_Down.resources
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\obj\Debug\School_MS.Add_Subject_To_Students.resources
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\obj\Debug\School_MS.Admin.resources
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\obj\Debug\School_MS.Admin_Home_Page.resources
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\obj\Debug\School_MS.Assigned_Subject_To_Teacher.resources
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\obj\Debug\School_MS.Check_Students_Class.resources
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\obj\Debug\School_MS.Create_Class.resources
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\obj\Debug\School_MS.Create_Officer.resources
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\obj\Debug\School_MS.Create_Student_Account.resources
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\obj\Debug\School_MS.Create_Teacher_Account.resources
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\obj\Debug\School_MS.Delete_Subject.resources
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\obj\Debug\School_MS.Login_Page.resources
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\obj\Debug\School_MS.Search_Officer.resources
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\obj\Debug\School_MS.Search_Student_Admin.resources
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\obj\Debug\School_MS.Search_Teacher_Admin.resources
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\obj\Debug\School_MS.Slide_Show_Log_In_Page.resources
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\obj\Debug\School_MS.csproj.GenerateResource.cache
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\obj\Debug\School_MS.exe
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\obj\Debug\School_MS.pdb
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\bin\Debug\School_MS.exe.config
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\bin\Debug\School_MS.exe
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\bin\Debug\School_MS.pdb
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\bin\Debug\Student_Officer.dll
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\bin\Debug\Student_Officer.pdb
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\bin\Debug\Student_Officer.dll.config
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\obj\Debug\School_MS.Properties.Resources.resources
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\obj\Debug\School_MS.csproj.CoreCompileInputs.cache
+C:\Users\GILGAMESH\Desktop\New folder\School_MS\obj\Debug\School_MS.csproj.CopyComplete
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\School_MS.exe.config
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\School_MS.exe
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\School_MS.pdb
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\Student_Officer.dll
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\Student_Officer.pdb
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\Student_Officer.dll.config
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.csprojAssemblyReference.cache
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Add_Students_To_Class.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Add_Subject_Drop_Down.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Add_Subject_To_Students.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Admin.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Admin_Home_Page.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Assigned_Subject_To_Teacher.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Check_Students_Class.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Create_Class.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Create_Officer.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Create_Student_Account.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Create_Teacher_Account.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Delete_Subject.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Login_Page.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Properties.Resources.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Search_Officer.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Search_Student_Admin.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Search_Teacher_Admin.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Slide_Show_Log_In_Page.resources
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.csproj.GenerateResource.cache
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.csproj.CopyComplete
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.exe
+C:\Users\Hp\Downloads\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.pdb
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.csprojAssemblyReference.cache
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Add_Students_To_Class.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Add_Subject_Drop_Down.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Add_Subject_To_Students.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Admin.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Admin_Home_Page.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Assigned_Subject_To_Teacher.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Check_Students_Class.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Create_Class.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Create_Officer.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Create_Student_Account.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Create_Teacher_Account.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Delete_Subject.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Login_Page.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Properties.Resources.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Search_Officer.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Search_Student_Admin.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Search_Teacher_Admin.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Slide_Show_Log_In_Page.resources
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.csproj.GenerateResource.cache
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.exe
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.pdb
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\School_MS.exe.config
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\School_MS.exe
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\School_MS.pdb
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\Bunifu_UI_v1.52.dll
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\Student_Officer.dll
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\TeacherPart.dll
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\TeacherPart.pdb
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\TeacherPart.dll.config
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\TeacherPart.exe.config
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\Student_Officer.pdb
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\Student_Officer.dll.config
+F:\Semester 7\C_Sharp\Final Project\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.csproj.CopyComplete
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\School_MS.exe.config
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\School_MS.exe
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\School_MS.pdb
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\Student_Officer.dll
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\TeacherPart.dll
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\TeacherPart.pdb
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\TeacherPart.dll.config
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\TeacherPart.exe.config
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\Student_Officer.pdb
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\Student_Officer.dll.config
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.csprojAssemblyReference.cache
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Add_Students_To_Class.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Add_Subject_Drop_Down.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Add_Subject_To_Students.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Admin.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Admin_Home_Page.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Assigned_Subject_To_Teacher.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Check_Students_Class.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Create_Class.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Create_Officer.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Create_Student_Account.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Create_Teacher_Account.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Delete_Subject.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Login_Page.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Properties.Resources.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Search_Officer.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Search_Student_Admin.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Search_Teacher_Admin.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Slide_Show_Log_In_Page.resources
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.csproj.GenerateResource.cache
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.csproj.CoreCompileInputs.cache
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.csproj.CopyComplete
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.exe
+C:\Users\GILGAMESH\Desktop\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.pdb
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\School_MS.exe.config
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\School_MS.exe
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\School_MS.pdb
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\Student_Officer.dll
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\TeacherPart.dll
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\TeacherPart.pdb
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\TeacherPart.dll.config
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\TeacherPart.exe.config
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\Student_Officer.pdb
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\Student_Officer.dll.config
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.csprojAssemblyReference.cache
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Add_Students_To_Class.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Add_Subject_Drop_Down.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Add_Subject_To_Students.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Admin.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Admin_Home_Page.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Assigned_Subject_To_Teacher.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Check_Students_Class.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Create_Class.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Create_Officer.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Create_Student_Account.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Create_Teacher_Account.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Delete_Subject.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Login_Page.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Properties.Resources.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Search_Officer.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Search_Student_Admin.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Search_Teacher_Admin.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Slide_Show_Log_In_Page.resources
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.csproj.GenerateResource.cache
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.csproj.CopyComplete
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.exe
+C:\Users\Hp\Downloads\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.pdb
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\School_MS.exe.config
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\School_MS.exe
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\School_MS.pdb
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\Student_Officer.dll
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\TeacherPart.dll
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\TeacherPart.pdb
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\TeacherPart.dll.config
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\TeacherPart.exe.config
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\Student_Officer.pdb
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\bin\Debug\Student_Officer.dll.config
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.csprojAssemblyReference.cache
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Add_Students_To_Class.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Add_Subject_Drop_Down.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Add_Subject_To_Students.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Admin.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Admin_Home_Page.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Assigned_Subject_To_Teacher.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Check_Students_Class.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Create_Class.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Create_Officer.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Create_Student_Account.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Create_Teacher_Account.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Delete_Subject.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Login_Page.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Properties.Resources.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Search_Officer.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Search_Student_Admin.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Search_Teacher_Admin.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.Slide_Show_Log_In_Page.resources
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.csproj.GenerateResource.cache
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.csproj.CopyComplete
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.exe
+F:\Semester 7\C_Sharp\Final_C#\Final_i (3)\Final\School_MS Full (1) (1)\New folder\School_MS\obj\Debug\School_MS.pdb
